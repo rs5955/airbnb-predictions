@@ -1,1 +1,4 @@
-
+- AB_NYC_2019.csv is the Airbnb dataset downloaded from https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+- index.php is the questionnaire form we asked users to submit
+- the questionnaire is uploaded to https://cims.nyu.edu/~rs5955/socnet/
+- the responses can be found on https://cims.nyu.edu/~rs5955/socnet/responses.txt
