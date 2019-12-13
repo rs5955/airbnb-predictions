@@ -1,0 +1,29 @@
+body{
+  background-color: blanchedalmond;
+  border-left: 2px solid black;
+  margin: auto;
+  width: 60%;
+  font-family: monospace;
+  font-size: 15px;
+  padding-left: 10px;
+  margin-top: 20px;
+}
+
+input{
+  border: 2px solid black;
+  bakground-color: rgb(225,245,255);
+  padding: 2px 5px;
+}
+
+#i1, #i2{
+  width: 30%;
+  float: left;
+}
+
+.clearF{
+  clear: both;
+}
+
+img{
+  border: 2px dashed black;
+}
