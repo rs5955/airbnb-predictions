@@ -1,4 +1,4 @@
-# Social Networks
+# Social Networks Project 
 ___
 # Predictive Listings of Airbnb Accommodations
 ## -Raymond Shi (rs5955), Alexander Sosnovsky (as10507)
