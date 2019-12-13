@@ -1,4 +1,5 @@
 # Social Networks Final Project
+# Predictive Listings of Airbnb Accommodations
 ## -Raymond Shi (rs5955), Alexander Sosnovsky (as10507)
 To run our Airbnb search engine, please download the files (genresult.py, nycincome.csv, income.csv, and rooms.csv) in the program directory. 
 
