@@ -1,4 +1,4 @@
-# Social Networks Project 
+# Social Networks Project (Fall 2019)
 ___
 # Predictive Listings of Airbnb Accommodations
 ## -Raymond Shi, Alexander Sosnovsky
